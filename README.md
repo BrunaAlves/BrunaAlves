@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunaAlves
 - 👀 I’m interested in code, cats, embroideries and books
 - 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate with Spring Boot projects
+- 💞️ I’m looking to collaborate to Spring Boot projects
 - 📫 How to reach me brunahlves94@gmail.com
 
 <!---
