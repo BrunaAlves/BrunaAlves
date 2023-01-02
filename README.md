@@ -4,8 +4,16 @@
 - 💞️ I’m looking to collaborate to Spring Boot projects
 - 📫 How to reach me brunahlves94@gmail.com
 
-<div>
-    <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaAlves&layout=compact&text_color=daf7dc&bg_color=151515">
+
+<div align="center" >
+    <img src="https://github-readme-stats.vercel.app/api?username=brunaAlves&&show_icons=true&count_private=true&theme=github_dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunaAlves&theme=github-dark-blue&include_all_commits=true&count_private=true">
+
+</div>
+
+<div align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaAlves&layout=compact&theme=github_dark">
+    
 </div>
 
 <!---
