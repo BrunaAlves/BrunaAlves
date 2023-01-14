@@ -2,7 +2,7 @@
     - 👀 I’m interested in code, cats, embroideries and books
     - 🌱 I’m currently learning angular
     - 💞️ I’m looking to collaborate to Spring Boot projects
-    - 📫 How to reach me brunahlves94@gmail.com
+    - 📫 How to reach me brunahalves94@gmail.com
 
 <!---
 
