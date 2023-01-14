@@ -13,8 +13,7 @@
 --->
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaalves&layout=compact&theme=github_dark"> 
-
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunaalves&layout=compact&theme=github_dark"> 
 </div>
 
 <!---
