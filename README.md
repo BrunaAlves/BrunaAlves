@@ -1,7 +1,6 @@
-    - 👋 Hi, I’m @BrunaAlves
+    - 👋 Hi! I’m Bruna, brazilian fullstack developer living in The Netherlands
     - 👀 I’m interested in code, cats, embroideries and books
-    - 🌱 I’m currently learning angular
-    - 💞️ I’m looking to collaborate to Spring Boot projects
+    - 📚 Reading The Long Dark Tea-Time of the Soul
     - 📫 How to reach me brunahalves94@gmail.com
 
 <!---
