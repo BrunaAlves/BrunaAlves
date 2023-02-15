@@ -1,5 +1,6 @@
     - 👋 Hi! I’m Bruna, brazilian fullstack developer
     - 👀 I’m interested in code, cats, embroideries and books
+    - 👩🏽‍💻 Currently learning Angular
     - 📚 Reading: The Long Dark Tea-Time of the Soul by Douglas Adams
     - 📫 How to reach me brunahalves94@gmail.com
 
