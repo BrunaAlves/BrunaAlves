@@ -1,7 +1,7 @@
     - 👋 Hi! I’m Bruna, brazilian fullstack developer
     - 👀 I’m interested in code, cats, embroideries and books
     - 👩🏽‍💻 Currently learning Angular
-    - 📖 Reading: Klara and the Sun by Kazuo Ishiguro
+    - 📖 Reading: The Memory Police by Yōko Ogawa
     - 📫 How to reach me brunahalves94@gmail.com
     - 🏋🏽‍♀️ HackerRank: @brunaalves
 
