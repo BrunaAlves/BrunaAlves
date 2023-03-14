@@ -1,7 +1,7 @@
     - 👋 Hi! I’m Bruna, brazilian fullstack developer
     - 👀 I’m interested in code, cats, embroideries and books
     - 👩🏽‍💻 Currently learning Angular
-    - 📖 Reading: The Memory Police by Yōko Ogawa
+    - 📖 Reading: The Salmon of Doubt by Douglas Adams
     - 📫 How to reach me brunahalves94@gmail.com
     - 🏋🏽‍♀️ HackerRank: @brunaalves
 
