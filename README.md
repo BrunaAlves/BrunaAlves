@@ -1,7 +1,6 @@
     - 👋 Hi! I’m Bruna, brazilian fullstack developer
     - 👀 I’m interested in code, cats, embroideries and books
-    - 👩🏽‍💻 Currently learning Angular
-    - 📖 Reading: The Salmon of Doubt by Douglas Adams
+    - 📖 Reading: The Remains of the Day by Kazuo Ishiguro
     - 📫 How to reach me brunahalves94@gmail.com
     - 🏋🏽‍♀️ HackerRank: @brunaalves
 
