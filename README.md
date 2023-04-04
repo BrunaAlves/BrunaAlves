@@ -1,6 +1,6 @@
     - 👋 Hi! I’m Bruna, brazilian fullstack developer
     - 👀 I’m interested in code, cats, embroideries and books
-    - 📖 Reading: The Remains of the Day by Kazuo Ishiguro
+    - 📖 Reading: A Wild Sheep Chase by Haruki Murakami
     - 📫 How to reach me brunahalves94@gmail.com
     - 🏋🏽‍♀️ HackerRank: @brunaalves
 
