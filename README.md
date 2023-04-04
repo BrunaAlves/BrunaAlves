@@ -2,7 +2,7 @@
     - 👀 I’m interested in code, cats, embroideries and books
     - 📖 Reading: A Wild Sheep Chase by Haruki Murakami
     - 📫 How to reach me brunahalves94@gmail.com
-    - 🏋🏽‍♀️ HackerRank: @brunaalves
+    - 🏋🏽‍♀️ Hyperskill: https://hyperskill.org/profile/442624084
 
 <!---
 
