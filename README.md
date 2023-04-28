@@ -1,6 +1,6 @@
     - 👋 Hi! I’m Bruna, brazilian fullstack developer
     - 👀 I’m interested in code, cats, embroideries and books
-    - 📖 Reading: A Wild Sheep Chase by Haruki Murakami
+    - 📖 Reading: The Buried Giant by Kazuo Ishiguro
     - 📫 How to reach me brunahalves94@gmail.com
     - 🏋🏽‍♀️ Hyperskill: https://hyperskill.org/profile/442624084
 
