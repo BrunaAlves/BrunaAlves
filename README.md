@@ -1,6 +1,6 @@
     - 👋 Hi! I’m Bruna, brazilian fullstack developer
     - 👀 I’m interested in code, cats, embroideries and books
-    - 📖 Reading: Lonely Castle in the Mirror by Mizuki Tsujimura
+    - 📖 Reading: A Judgment in Stone by Ruth Rendell
     - 📫 How to reach me brunahalves94@gmail.com
     - 🏋🏽‍♀️ Hyperskill: https://hyperskill.org/profile/442624084
 
